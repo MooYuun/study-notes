@@ -4,22 +4,25 @@ layout: home
 
 hero:
   name: "BaldHedgehog"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "Muyun's Secret Garden"
+  tagline: Optimisation, Simulation
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Maths Notes
+      link: /maths
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Thoughts
+      link: /
+    - theme: alt
+      text: Products
+      link: /  
 
 features:
-  - title: Feature A
+  - title: Maths Notes
+    details: The study notes on Calculous, Geometry, and Linear Algebra
+  - title: Thoughts
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Products
+    details: Self developed tools
 ---
 
