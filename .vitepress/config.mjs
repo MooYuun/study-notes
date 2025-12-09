@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "BaldHedgehog",
-  description: "A VitePress Site",
+  description: "Muyun's Secret Garden",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -13,10 +13,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Menu',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Home', link: '/' },
+          { text: 'Maths Notes', link: '/maths' }
         ]
       }
     ],
